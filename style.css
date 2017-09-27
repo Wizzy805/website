@@ -1,0 +1,35 @@
+header, footer {
+    padding: 1em;
+	margin: 0;
+    color: white;
+    background-color: #5f5f5f;
+    clear: left;
+    text-align: center;
+	text-shadow: -2px -1px black;
+}
+ body {
+	background-color: #6da8db;
+	
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+div.text {
+	width: 100%;
+    border: 1px solid gray;
+}
