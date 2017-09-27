@@ -29,7 +29,11 @@ article {
     padding: 1em;
     overflow: hidden;
 }
-div.text {
+button.text {
 	width: 100%;
     border: 1px solid gray;
+}
+
+button {
+	margin: 0;
 }
