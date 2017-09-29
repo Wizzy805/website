@@ -1,0 +1,61 @@
+header, footer {
+    padding: 1em;
+	margin: 0;
+    color: white;
+    background-color: #5f5f5f;
+    clear: left;
+    text-align: center;
+	text-shadow: -2px -1px black;
+}
+ body {
+	background: #000000 url("backdrop.png") no-repeat fixed center;
+	
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+button.text {
+	width: 100%;
+    border: 1px solid gray;
+}
+
+button {
+	margin: 0;
+}
+
+div	{
+	background: #5f5f5f;
+	padding-bottom:50%;
+	text-align: center;
+	width:33%;
+}
+
+p1 {
+	margin-top:50px;
+	
+}
+
+
+
+
+
+
+
+
+
+
