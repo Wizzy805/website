@@ -8,8 +8,7 @@ header, footer {
 	text-shadow: -2px -1px black;
 }
  body {
-	background-color: #6da8db;
-	
+	background: #000000 url("backdrop.png") no-repeat fixed center;
 }
 
 nav {
@@ -29,7 +28,41 @@ article {
     padding: 1em;
     overflow: hidden;
 }
-div.text {
+button.text {
 	width: 100%;
     border: 1px solid gray;
 }
+
+button {
+	margin: 0;
+}
+
+div#slave	{
+	margin: 1%;
+	margin-right:15%;
+	background: #5f5f5f;
+	padding-bottom:2%;
+	text-align: center;
+	width:33%;
+	display: inline-block;
+	border: solid 1px gray;
+	height: 60%;
+}
+
+div#master {
+	margin: 1%;
+	padding-bottom:2%;
+	text-align: center;
+	width:33%;
+	display: inline-block;
+}
+
+
+
+p1 {
+	margin-top:50px;
+    
+	
+}
+
+
