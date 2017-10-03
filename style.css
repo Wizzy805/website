@@ -1,4 +1,4 @@
-header, footer {
+header {
     padding: 1em;
 	margin: 0;
     color: white;
@@ -65,4 +65,25 @@ p1 {
 	
 }
 
+div.side{
+	background: #5f5f5f;
+	padding-bottom:25%;
+	text-align: left;
+	width:22%;
+}
 
+footer {
+	padding:5%
+	text-align:center;
+	color: #696969;
+}
+
+h1.head {
+	margin-right:43%;
+	float:right;
+}
+
+p.head {
+	margin-right:41%;
+	float:right;
+}
